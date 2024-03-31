@@ -14,3 +14,12 @@ it must also later let users swap roles
 what i want it for:
 
   todo: ...
+
+
+  methods:
+
+  getIdex
+
+  readCore
+
+  becomeCore (must be authed ???)
