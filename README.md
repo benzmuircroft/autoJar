@@ -23,3 +23,5 @@ what i want it for:
   readCore
 
   becomeCore (must be authed ???)
+
+  the point of this is core.purge() and replication to have active data instead of dead history
