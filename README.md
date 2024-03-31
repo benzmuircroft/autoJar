@@ -18,7 +18,7 @@ what i want it for:
 
   methods:
 
-  getIdex
+  getIndex (returns an object)
 
   readCore
 
