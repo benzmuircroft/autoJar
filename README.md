@@ -4,7 +4,7 @@ goal:
 
 to use corestore and be fully aware of all cores added and have the storage index update to the latest version when back online
 
-it must show who is who as a service
+it must show who-is-who as a service
 
 and give you reader access and indexablity with no effort
 
